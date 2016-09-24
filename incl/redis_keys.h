@@ -1,6 +1,6 @@
 /**
  * @brief  redis表 KEYS 值相关定义 
- * @author liu_danbing
+ * @author zou
  */
 
 #ifndef _REDIS_KEYS_H_
